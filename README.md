@@ -20,8 +20,8 @@ Facilitar la colaboración con otros investigadores y profesionales interesados 
 Fomentar la transparencia al proporcionar acceso a la metodología y los resultados obtenidos en el proyecto.
 Si estás interesado en contribuir, realizar mejoras o utilizar los resultados de este proyecto, ¡te invitamos a explorar el contenido de este repositorio!
 
-Fecha de Inicio del Proyecto: Agosto 2023
-Autores: Maycol Moreno <br>
+Fecha de Inicio del Proyecto: Agosto 2023 <br>
+Autores: <br> Maycol Moreno <br>
          Edward Morales <br>
          Juan Padilla <br>
          Juan Peralta <br>
